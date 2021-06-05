@@ -1,0 +1,37 @@
+.body {
+    text-align: center;    
+    color:palevioletred
+}
+.label {
+    font-size: 21px;
+    color: palevioletred;
+}
+.input {
+    font-size: 20px;
+    border:solid 2px 
+    border-radius: 7px;
+
+}
+.btn-calcular {
+    font-size:20px;
+    height:30px;
+    width: 130px;
+    background: white;
+    color: palevioletred;
+    border:solid 2px 
+    
+}
+.btn-limpar {
+    font-size:20px;
+    border:solid 2px;
+    height:30px;
+    width: 130px;
+    background: white;
+    color: palevioletred;
+    border:solid 2px 
+}
+.resultado {
+    font-size: 40px;
+    color: palevioletred;
+
+}
